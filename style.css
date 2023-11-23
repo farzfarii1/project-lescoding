@@ -1,12 +1,12 @@
 body {
-	background-color: lightblue;
+	background-color: black;
 	text-align: center;
 	font-family: monospace;
 	padding-bottom: 25px;
 }
 
 header {
-	background: lightcoral;
+	background: ghostwhite;
 	color: white;
 	padding: 5px;
 	border-radius: 25px;
@@ -22,7 +22,7 @@ nav {
 
 nav a {
 	text-decoration: none;
-	color:white;
+	color:black;
 	font-size: 25px;
 	margin: 0 5px;
 	padding: 15px;
@@ -57,7 +57,7 @@ nav b {
 /* end of row and column */
 
 .perkenalan {
-	background-color:burlywood;
+	background-color:lightgray;
 	margin: 50px;
 	border-radius: 50px;
 }
@@ -77,7 +77,7 @@ nav b {
 }
 
 .biodata {
-	background-color: antiquewhite;
+	background-color: whitesmoke;
 	margin: 50px;
 	border-radius: 25px;
 	font-size: 25px;
@@ -85,9 +85,9 @@ nav b {
 }
 
 .biodata .header {
-	background: linear-gradient(90deg, pink 20%, darkblue);
+	background: linear-gradient(90deg, darkgray 20%, lightgray);
 	border-radius: 20px;
-	color: white;
+	color: black;
 }
 
 .biodata h1, .biodata h3 {
@@ -103,16 +103,16 @@ nav b {
 }
 
 .kontak {
-	background-color: aquamarine;
+	background-color: lightgray;
 	padding-bottom: 25px;
 	margin: 50px;
 	border-radius: 15px;
-	border: 2px red solid;
+	border: 2px black;
 	height: 200px;
 }
 
 .kontak b {
-	background: linear-gradient(90deg, red 50%, blue);
+	background: linear-gradient(90deg, black 50%, gray);
 	-webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 	font-size: 35px;
@@ -123,7 +123,7 @@ nav b {
 }
 
 .tentang {
-	background-color: orangered;
+	background-color: whitesmoke;
 	padding: 15px;
 	margin: 50px;
 	border-radius: 15px;
@@ -131,7 +131,7 @@ nav b {
 
 .tentang .header {
 	font-size: 50px;
-	color: white;
+	color: black;
 }
 
 .tentang .body {
